@@ -17,8 +17,8 @@
     
   <p align="center"> 
     <br />&#10023;
-    <a href="#Demo">View Demo</a>   &#10023;  
-    <a href="https://github.com/m-sehrawat/Translation-App/issues">Report Bug</a>    &#10023;
+    <a href="translator-app-lime.vercel.app">View Demo</a>   &#10023;  
+    <a href="https://github.com/Saksham21s/Translation-App/issues">Report Bug</a>    &#10023;
     <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
   </p>
 
@@ -124,9 +124,8 @@ npm run dev
 If you want to contact me, you can reach me through below handles.
 
 [![linkedin](https://img.shields.io/badge/Saksham-pandey21?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-pandey21/)
-[![github](https://img.shields.io/badge/saksham21s?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Saksaham21s/)
 
-© 2022 Mohit Sehrawat
+© 2023 Saksham Pandey
 
 
 
